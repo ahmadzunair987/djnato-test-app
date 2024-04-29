@@ -26,7 +26,7 @@ SECRET_KEY = 'f+=jhml$h=30d*ovrjo2fe(r)^%j89$mo5#%02#k2gg-$+5q9b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*','test-tk-app.azurewebsites.net']
 
 DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
 
